@@ -1,3 +1,3 @@
 Site Funcional 
 
-https://mgosalan-dev.github.io/Word-Of-Warcraft/
+https://mgosalan-dev.github.io/World-Of-Warcraft/
